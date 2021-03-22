@@ -1,0 +1,587 @@
+Simulation begins...
+starting simulation.
+Part Arrival:: Part Number: 0 at a time: 0
+Part Arrival:: Part Number: 0 at a time: 1
+Part Arrival:: Part Number: 0 at a time: 2
+Part Arrival:: Part Number: 0 at a time: 3
+Part Arrival:: Part Number: 0 at a time: 4
+Part Arrival:: Part Number: 0 at a time: 5
+Part Arrival:: Part Number: 0 at a time: 6
+Part Arrival:: Part Number: 0 at a time: 7
+Part Arrival:: Part Number: 0 at a time: 8
+Part Arrival:: Part Number: 0 at a time: 9
+Part Arrival:: Part Number: 0 at a time: 10
+Part Arrival:: Part Number: 0 at a time: 11
+Part Arrival:: Part Number: 0 at a time: 12
+Part Arrival:: Part Number: 0 at a time: 13
+Part Arrival:: Part Number: 0 at a time: 14
+Part Arrival:: Part Number: 0 at a time: 15
+Part Arrival:: Part Number: 0 at a time: 16
+Part Arrival:: Part Number: 0 at a time: 17
+Part Arrival:: Part Number: 0 at a time: 18
+Part Arrival:: Part Number: 0 at a time: 19
+Part Arrival:: Part Number: 0 at a time: 20
+Part Arrival:: Part Number: 0 at a time: 21
+Part Arrival:: Part Number: 0 at a time: 22
+Part Arrival:: Part Number: 0 at a time: 23
+Part Arrival:: Part Number: 0 at a time: 24
+Part Arrival:: Part Number: 0 at a time: 25
+Part Arrival:: Part Number: 0 at a time: 26
+Part Arrival:: Part Number: 0 at a time: 27
+Part Arrival:: Part Number: 0 at a time: 28
+Part Arrival:: Part Number: 0 at a time: 29
+Part Arrival:: Part Number: 0 at a time: 30
+Part Arrival:: Part Number: 0 at a time: 31
+Part Arrival:: Part Number: 0 at a time: 32
+Part Arrival:: Part Number: 0 at a time: 33
+Part Arrival:: Part Number: 0 at a time: 34
+Part Arrival:: Part Number: 0 at a time: 35
+Part Arrival:: Part Number: 0 at a time: 36
+Part Arrival:: Part Number: 0 at a time: 37
+Part Arrival:: Part Number: 0 at a time: 38
+Part Arrival:: Part Number: 0 at a time: 39
+Part Arrival:: Part Number: 0 at a time: 40
+Part Arrival:: Part Number: 0 at a time: 41
+Part Arrival:: Part Number: 0 at a time: 42
+Part Arrival:: Part Number: 0 at a time: 43
+Part Arrival:: Part Number: 0 at a time: 44
+Part Arrival:: Part Number: 0 at a time: 45
+Part Arrival:: Part Number: 0 at a time: 46
+Part Arrival:: Part Number: 0 at a time: 47
+Part Arrival:: Part Number: 0 at a time: 48
+Part Arrival:: Part Number: 0 at a time: 49
+Part Arrival:: Part Number: 1 at a time: 50
+Part Arrival:: Part Number: 2 at a time: 50
+Start Assembly: P0 and P1 at time at main Station 50
+Part Arrival:: Part Number: 2 at a time: 51
+Part Arrival:: Part Number: 1 at a time: 51
+End Assembly: P0 and P1 into partial product at time at main Station 60
+Start Assembly: P0 and P1 at time at main Station 60
+Product Arrival: Partially product arrives at finishing station at time 60
+Start Assembly: Partial product and P2 at time at finishing Station 60
+End Assembly: Partial product and P2 into finish product at time at finishing Station 65
+End Assembly: P0 and P1 into partial product at time at main Station 70
+Product Arrival: Partially product arrives at finishing station at time 70
+Start Assembly: Partial product and P2 at time at finishing Station 70
+End Assembly: Partial product and P2 into finish product at time at finishing Station 75
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 2 at a time: 100
+Part Arrival:: Part Number: 1 at a time: 200
+Start Assembly: P0 and P1 at time at main Station 200
+Part Arrival:: Part Number: 1 at a time: 201
+Part Arrival:: Part Number: 1 at a time: 202
+Part Arrival:: Part Number: 1 at a time: 203
+Part Arrival:: Part Number: 1 at a time: 204
+Part Arrival:: Part Number: 1 at a time: 205
+Part Arrival:: Part Number: 1 at a time: 206
+Part Arrival:: Part Number: 1 at a time: 207
+Part Arrival:: Part Number: 1 at a time: 208
+Part Arrival:: Part Number: 1 at a time: 209
+Part Arrival:: Part Number: 1 at a time: 210
+End Assembly: P0 and P1 into partial product at time at main Station 210
+Start Assembly: P0 and P1 at time at main Station 210
+Product Arrival: Partially product arrives at finishing station at time 210
+Start Assembly: Partial product and P2 at time at finishing Station 210
+Part Arrival:: Part Number: 1 at a time: 211
+Part Arrival:: Part Number: 1 at a time: 212
+Part Arrival:: Part Number: 1 at a time: 213
+Part Arrival:: Part Number: 1 at a time: 214
+Part Arrival:: Part Number: 1 at a time: 215
+End Assembly: Partial product and P2 into finish product at time at finishing Station 215
+Part Arrival:: Part Number: 1 at a time: 216
+Part Arrival:: Part Number: 1 at a time: 217
+Part Arrival:: Part Number: 1 at a time: 218
+Part Arrival:: Part Number: 1 at a time: 219
+Part Arrival:: Part Number: 1 at a time: 220
+End Assembly: P0 and P1 into partial product at time at main Station 220
+Start Assembly: P0 and P1 at time at main Station 220
+Product Arrival: Partially product arrives at finishing station at time 220
+Start Assembly: Partial product and P2 at time at finishing Station 220
+Part Arrival:: Part Number: 1 at a time: 221
+Part Arrival:: Part Number: 1 at a time: 222
+Part Arrival:: Part Number: 1 at a time: 223
+Part Arrival:: Part Number: 1 at a time: 224
+Part Arrival:: Part Number: 1 at a time: 225
+End Assembly: Partial product and P2 into finish product at time at finishing Station 225
+Part Arrival:: Part Number: 1 at a time: 226
+Part Arrival:: Part Number: 1 at a time: 227
+Part Arrival:: Part Number: 1 at a time: 228
+Part Arrival:: Part Number: 1 at a time: 229
+Part Arrival:: Part Number: 1 at a time: 230
+End Assembly: P0 and P1 into partial product at time at main Station 230
+Start Assembly: P0 and P1 at time at main Station 230
+Product Arrival: Partially product arrives at finishing station at time 230
+Start Assembly: Partial product and P2 at time at finishing Station 230
+Part Arrival:: Part Number: 1 at a time: 231
+Part Arrival:: Part Number: 1 at a time: 232
+Part Arrival:: Part Number: 1 at a time: 233
+Part Arrival:: Part Number: 1 at a time: 234
+Part Arrival:: Part Number: 1 at a time: 235
+End Assembly: Partial product and P2 into finish product at time at finishing Station 235
+Part Arrival:: Part Number: 1 at a time: 236
+Part Arrival:: Part Number: 1 at a time: 237
+Part Arrival:: Part Number: 1 at a time: 238
+Part Arrival:: Part Number: 1 at a time: 239
+End Assembly: P0 and P1 into partial product at time at main Station 240
+Start Assembly: P0 and P1 at time at main Station 240
+Product Arrival: Partially product arrives at finishing station at time 240
+Start Assembly: Partial product and P2 at time at finishing Station 240
+End Assembly: Partial product and P2 into finish product at time at finishing Station 245
+End Assembly: P0 and P1 into partial product at time at main Station 250
+Start Assembly: P0 and P1 at time at main Station 250
+Product Arrival: Partially product arrives at finishing station at time 250
+Start Assembly: Partial product and P2 at time at finishing Station 250
+End Assembly: Partial product and P2 into finish product at time at finishing Station 255
+End Assembly: P0 and P1 into partial product at time at main Station 260
+Start Assembly: P0 and P1 at time at main Station 260
+Product Arrival: Partially product arrives at finishing station at time 260
+Start Assembly: Partial product and P2 at time at finishing Station 260
+End Assembly: Partial product and P2 into finish product at time at finishing Station 265
+End Assembly: P0 and P1 into partial product at time at main Station 270
+Start Assembly: P0 and P1 at time at main Station 270
+Product Arrival: Partially product arrives at finishing station at time 270
+Start Assembly: Partial product and P2 at time at finishing Station 270
+End Assembly: Partial product and P2 into finish product at time at finishing Station 275
+End Assembly: P0 and P1 into partial product at time at main Station 280
+Start Assembly: P0 and P1 at time at main Station 280
+Product Arrival: Partially product arrives at finishing station at time 280
+Start Assembly: Partial product and P2 at time at finishing Station 280
+End Assembly: Partial product and P2 into finish product at time at finishing Station 285
+End Assembly: P0 and P1 into partial product at time at main Station 290
+Start Assembly: P0 and P1 at time at main Station 290
+Product Arrival: Partially product arrives at finishing station at time 290
+Start Assembly: Partial product and P2 at time at finishing Station 290
+End Assembly: Partial product and P2 into finish product at time at finishing Station 295
+End Assembly: P0 and P1 into partial product at time at main Station 300
+Start Assembly: P0 and P1 at time at main Station 300
+Product Arrival: Partially product arrives at finishing station at time 300
+Start Assembly: Partial product and P2 at time at finishing Station 300
+End Assembly: Partial product and P2 into finish product at time at finishing Station 305
+End Assembly: P0 and P1 into partial product at time at main Station 310
+Start Assembly: P0 and P1 at time at main Station 310
+Product Arrival: Partially product arrives at finishing station at time 310
+Start Assembly: Partial product and P2 at time at finishing Station 310
+End Assembly: Partial product and P2 into finish product at time at finishing Station 315
+End Assembly: P0 and P1 into partial product at time at main Station 320
+Start Assembly: P0 and P1 at time at main Station 320
+Product Arrival: Partially product arrives at finishing station at time 320
+Start Assembly: Partial product and P2 at time at finishing Station 320
+End Assembly: Partial product and P2 into finish product at time at finishing Station 325
+End Assembly: P0 and P1 into partial product at time at main Station 330
+Start Assembly: P0 and P1 at time at main Station 330
+Product Arrival: Partially product arrives at finishing station at time 330
+Start Assembly: Partial product and P2 at time at finishing Station 330
+End Assembly: Partial product and P2 into finish product at time at finishing Station 335
+End Assembly: P0 and P1 into partial product at time at main Station 340
+Start Assembly: P0 and P1 at time at main Station 340
+Product Arrival: Partially product arrives at finishing station at time 340
+Start Assembly: Partial product and P2 at time at finishing Station 340
+End Assembly: Partial product and P2 into finish product at time at finishing Station 345
+End Assembly: P0 and P1 into partial product at time at main Station 350
+Start Assembly: P0 and P1 at time at main Station 350
+Product Arrival: Partially product arrives at finishing station at time 350
+Start Assembly: Partial product and P2 at time at finishing Station 350
+End Assembly: Partial product and P2 into finish product at time at finishing Station 355
+End Assembly: P0 and P1 into partial product at time at main Station 360
+Start Assembly: P0 and P1 at time at main Station 360
+Product Arrival: Partially product arrives at finishing station at time 360
+Start Assembly: Partial product and P2 at time at finishing Station 360
+End Assembly: Partial product and P2 into finish product at time at finishing Station 365
+End Assembly: P0 and P1 into partial product at time at main Station 370
+Start Assembly: P0 and P1 at time at main Station 370
+Product Arrival: Partially product arrives at finishing station at time 370
+Start Assembly: Partial product and P2 at time at finishing Station 370
+End Assembly: Partial product and P2 into finish product at time at finishing Station 375
+End Assembly: P0 and P1 into partial product at time at main Station 380
+Start Assembly: P0 and P1 at time at main Station 380
+Product Arrival: Partially product arrives at finishing station at time 380
+Start Assembly: Partial product and P2 at time at finishing Station 380
+End Assembly: Partial product and P2 into finish product at time at finishing Station 385
+End Assembly: P0 and P1 into partial product at time at main Station 390
+Start Assembly: P0 and P1 at time at main Station 390
+Product Arrival: Partially product arrives at finishing station at time 390
+Start Assembly: Partial product and P2 at time at finishing Station 390
+End Assembly: Partial product and P2 into finish product at time at finishing Station 395
+End Assembly: P0 and P1 into partial product at time at main Station 400
+Start Assembly: P0 and P1 at time at main Station 400
+Product Arrival: Partially product arrives at finishing station at time 400
+Start Assembly: Partial product and P2 at time at finishing Station 400
+End Assembly: Partial product and P2 into finish product at time at finishing Station 405
+End Assembly: P0 and P1 into partial product at time at main Station 410
+Start Assembly: P0 and P1 at time at main Station 410
+Product Arrival: Partially product arrives at finishing station at time 410
+Start Assembly: Partial product and P2 at time at finishing Station 410
+End Assembly: Partial product and P2 into finish product at time at finishing Station 415
+End Assembly: P0 and P1 into partial product at time at main Station 420
+Start Assembly: P0 and P1 at time at main Station 420
+Product Arrival: Partially product arrives at finishing station at time 420
+Start Assembly: Partial product and P2 at time at finishing Station 420
+End Assembly: Partial product and P2 into finish product at time at finishing Station 425
+End Assembly: P0 and P1 into partial product at time at main Station 430
+Start Assembly: P0 and P1 at time at main Station 430
+Product Arrival: Partially product arrives at finishing station at time 430
+Start Assembly: Partial product and P2 at time at finishing Station 430
+End Assembly: Partial product and P2 into finish product at time at finishing Station 435
+End Assembly: P0 and P1 into partial product at time at main Station 440
+Start Assembly: P0 and P1 at time at main Station 440
+Product Arrival: Partially product arrives at finishing station at time 440
+Start Assembly: Partial product and P2 at time at finishing Station 440
+End Assembly: Partial product and P2 into finish product at time at finishing Station 445
+End Assembly: P0 and P1 into partial product at time at main Station 450
+Start Assembly: P0 and P1 at time at main Station 450
+Product Arrival: Partially product arrives at finishing station at time 450
+Start Assembly: Partial product and P2 at time at finishing Station 450
+End Assembly: Partial product and P2 into finish product at time at finishing Station 455
+End Assembly: P0 and P1 into partial product at time at main Station 460
+Start Assembly: P0 and P1 at time at main Station 460
+Product Arrival: Partially product arrives at finishing station at time 460
+Start Assembly: Partial product and P2 at time at finishing Station 460
+End Assembly: Partial product and P2 into finish product at time at finishing Station 465
+End Assembly: P0 and P1 into partial product at time at main Station 470
+Start Assembly: P0 and P1 at time at main Station 470
+Product Arrival: Partially product arrives at finishing station at time 470
+Start Assembly: Partial product and P2 at time at finishing Station 470
+End Assembly: Partial product and P2 into finish product at time at finishing Station 475
+End Assembly: P0 and P1 into partial product at time at main Station 480
+Start Assembly: P0 and P1 at time at main Station 480
+Product Arrival: Partially product arrives at finishing station at time 480
+Start Assembly: Partial product and P2 at time at finishing Station 480
+End Assembly: Partial product and P2 into finish product at time at finishing Station 485
+End Assembly: P0 and P1 into partial product at time at main Station 490
+Start Assembly: P0 and P1 at time at main Station 490
+Product Arrival: Partially product arrives at finishing station at time 490
+Start Assembly: Partial product and P2 at time at finishing Station 490
+End Assembly: Partial product and P2 into finish product at time at finishing Station 495
+End Assembly: P0 and P1 into partial product at time at main Station 500
+Start Assembly: P0 and P1 at time at main Station 500
+Product Arrival: Partially product arrives at finishing station at time 500
+Start Assembly: Partial product and P2 at time at finishing Station 500
+Part Arrival:: Part Number: 1 at a time: 500
+Part Arrival:: Part Number: 1 at a time: 505
+End Assembly: Partial product and P2 into finish product at time at finishing Station 505
+Part Arrival:: Part Number: 1 at a time: 510
+End Assembly: P0 and P1 into partial product at time at main Station 510
+Start Assembly: P0 and P1 at time at main Station 510
+Product Arrival: Partially product arrives at finishing station at time 510
+Start Assembly: Partial product and P2 at time at finishing Station 510
+Part Arrival:: Part Number: 1 at a time: 513
+End Assembly: Partial product and P2 into finish product at time at finishing Station 515
+Part Arrival:: Part Number: 2 at a time: 520
+End Assembly: P0 and P1 into partial product at time at main Station 520
+Start Assembly: P0 and P1 at time at main Station 520
+Product Arrival: Partially product arrives at finishing station at time 520
+Start Assembly: Partial product and P2 at time at finishing Station 520
+End Assembly: Partial product and P2 into finish product at time at finishing Station 525
+Part Arrival:: Part Number: 2 at a time: 525
+End Assembly: P0 and P1 into partial product at time at main Station 530
+Start Assembly: P0 and P1 at time at main Station 530
+Product Arrival: Partially product arrives at finishing station at time 530
+Start Assembly: Partial product and P2 at time at finishing Station 530
+Part Arrival:: Part Number: 2 at a time: 533
+End Assembly: Partial product and P2 into finish product at time at finishing Station 535
+End Assembly: P0 and P1 into partial product at time at main Station 540
+Start Assembly: P0 and P1 at time at main Station 540
+Product Arrival: Partially product arrives at finishing station at time 540
+Start Assembly: Partial product and P2 at time at finishing Station 540
+Part Arrival:: Part Number: 1 at a time: 541
+End Assembly: Partial product and P2 into finish product at time at finishing Station 545
+Part Arrival:: Part Number: 2 at a time: 546
+End Assembly: P0 and P1 into partial product at time at main Station 550
+Start Assembly: P0 and P1 at time at main Station 550
+Product Arrival: Partially product arrives at finishing station at time 550
+Start Assembly: Partial product and P2 at time at finishing Station 550
+Part Arrival:: Part Number: 0 at a time: 552
+Part Arrival:: Part Number: 0 at a time: 554
+Part Arrival:: Part Number: 1 at a time: 555
+End Assembly: Partial product and P2 into finish product at time at finishing Station 555
+End Assembly: P0 and P1 into partial product at time at main Station 560
+Start Assembly: P0 and P1 at time at main Station 560
+Product Arrival: Partially product arrives at finishing station at time 560
+Start Assembly: Partial product and P2 at time at finishing Station 560
+Part Arrival:: Part Number: 2 at a time: 562
+End Assembly: Partial product and P2 into finish product at time at finishing Station 565
+Part Arrival:: Part Number: 0 at a time: 567
+Part Arrival:: Part Number: 0 at a time: 568
+End Assembly: P0 and P1 into partial product at time at main Station 570
+Start Assembly: P0 and P1 at time at main Station 570
+Product Arrival: Partially product arrives at finishing station at time 570
+Start Assembly: Partial product and P2 at time at finishing Station 570
+Part Arrival:: Part Number: 0 at a time: 573
+End Assembly: Partial product and P2 into finish product at time at finishing Station 575
+Part Arrival:: Part Number: 2 at a time: 578
+End Assembly: P0 and P1 into partial product at time at main Station 580
+Start Assembly: P0 and P1 at time at main Station 580
+Product Arrival: Partially product arrives at finishing station at time 580
+Start Assembly: Partial product and P2 at time at finishing Station 580
+End Assembly: Partial product and P2 into finish product at time at finishing Station 585
+Part Arrival:: Part Number: 0 at a time: 586
+Part Arrival:: Part Number: 2 at a time: 587
+End Assembly: P0 and P1 into partial product at time at main Station 590
+Start Assembly: P0 and P1 at time at main Station 590
+Product Arrival: Partially product arrives at finishing station at time 590
+Start Assembly: Partial product and P2 at time at finishing Station 590
+Part Arrival:: Part Number: 1 at a time: 591
+Part Arrival:: Part Number: 2 at a time: 594
+End Assembly: Partial product and P2 into finish product at time at finishing Station 595
+Part Arrival:: Part Number: 2 at a time: 597
+End Assembly: P0 and P1 into partial product at time at main Station 600
+Start Assembly: P0 and P1 at time at main Station 600
+Product Arrival: Partially product arrives at finishing station at time 600
+Start Assembly: Partial product and P2 at time at finishing Station 600
+Part Arrival:: Part Number: 2 at a time: 602
+End Assembly: Partial product and P2 into finish product at time at finishing Station 605
+Part Arrival:: Part Number: 2 at a time: 606
+Part Arrival:: Part Number: 1 at a time: 607
+Part Arrival:: Part Number: 0 at a time: 610
+End Assembly: P0 and P1 into partial product at time at main Station 610
+Start Assembly: P0 and P1 at time at main Station 610
+Product Arrival: Partially product arrives at finishing station at time 610
+Start Assembly: Partial product and P2 at time at finishing Station 610
+End Assembly: Partial product and P2 into finish product at time at finishing Station 615
+Part Arrival:: Part Number: 1 at a time: 615
+Part Arrival:: Part Number: 0 at a time: 619
+End Assembly: P0 and P1 into partial product at time at main Station 620
+Start Assembly: P0 and P1 at time at main Station 620
+Product Arrival: Partially product arrives at finishing station at time 620
+Start Assembly: Partial product and P2 at time at finishing Station 620
+Part Arrival:: Part Number: 1 at a time: 622
+End Assembly: Partial product and P2 into finish product at time at finishing Station 625
+Part Arrival:: Part Number: 2 at a time: 628
+End Assembly: P0 and P1 into partial product at time at main Station 630
+Start Assembly: P0 and P1 at time at main Station 630
+Product Arrival: Partially product arrives at finishing station at time 630
+Start Assembly: Partial product and P2 at time at finishing Station 630
+Part Arrival:: Part Number: 1 at a time: 631
+End Assembly: Partial product and P2 into finish product at time at finishing Station 635
+Part Arrival:: Part Number: 2 at a time: 636
+Part Arrival:: Part Number: 0 at a time: 640
+End Assembly: P0 and P1 into partial product at time at main Station 640
+Start Assembly: P0 and P1 at time at main Station 640
+Product Arrival: Partially product arrives at finishing station at time 640
+Start Assembly: Partial product and P2 at time at finishing Station 640
+Part Arrival:: Part Number: 1 at a time: 644
+End Assembly: Partial product and P2 into finish product at time at finishing Station 645
+Part Arrival:: Part Number: 0 at a time: 649
+End Assembly: P0 and P1 into partial product at time at main Station 650
+Start Assembly: P0 and P1 at time at main Station 650
+Product Arrival: Partially product arrives at finishing station at time 650
+Start Assembly: Partial product and P2 at time at finishing Station 650
+Part Arrival:: Part Number: 1 at a time: 652
+End Assembly: Partial product and P2 into finish product at time at finishing Station 655
+Part Arrival:: Part Number: 1 at a time: 660
+End Assembly: P0 and P1 into partial product at time at main Station 660
+Start Assembly: P0 and P1 at time at main Station 660
+Product Arrival: Partially product arrives at finishing station at time 660
+Start Assembly: Partial product and P2 at time at finishing Station 660
+End Assembly: Partial product and P2 into finish product at time at finishing Station 665
+Part Arrival:: Part Number: 0 at a time: 665
+End Assembly: P0 and P1 into partial product at time at main Station 670
+Start Assembly: P0 and P1 at time at main Station 670
+Product Arrival: Partially product arrives at finishing station at time 670
+Start Assembly: Partial product and P2 at time at finishing Station 670
+Part Arrival:: Part Number: 2 at a time: 672
+End Assembly: Partial product and P2 into finish product at time at finishing Station 675
+Part Arrival:: Part Number: 2 at a time: 676
+Part Arrival:: Part Number: 0 at a time: 678
+Part Arrival:: Part Number: 2 at a time: 679
+End Assembly: P0 and P1 into partial product at time at main Station 680
+Start Assembly: P0 and P1 at time at main Station 680
+Product Arrival: Partially product arrives at finishing station at time 680
+Start Assembly: Partial product and P2 at time at finishing Station 680
+Part Arrival:: Part Number: 0 at a time: 682
+End Assembly: Partial product and P2 into finish product at time at finishing Station 685
+Part Arrival:: Part Number: 2 at a time: 686
+End Assembly: P0 and P1 into partial product at time at main Station 690
+Start Assembly: P0 and P1 at time at main Station 690
+Product Arrival: Partially product arrives at finishing station at time 690
+Start Assembly: Partial product and P2 at time at finishing Station 690
+Part Arrival:: Part Number: 0 at a time: 692
+Part Arrival:: Part Number: 1 at a time: 694
+End Assembly: Partial product and P2 into finish product at time at finishing Station 695
+Part Arrival:: Part Number: 1 at a time: 698
+End Assembly: P0 and P1 into partial product at time at main Station 700
+Start Assembly: P0 and P1 at time at main Station 700
+Product Arrival: Partially product arrives at finishing station at time 700
+Start Assembly: Partial product and P2 at time at finishing Station 700
+Part Arrival:: Part Number: 0 at a time: 702
+End Assembly: Partial product and P2 into finish product at time at finishing Station 705
+Part Arrival:: Part Number: 2 at a time: 708
+End Assembly: P0 and P1 into partial product at time at main Station 710
+Start Assembly: P0 and P1 at time at main Station 710
+Product Arrival: Partially product arrives at finishing station at time 710
+Start Assembly: Partial product and P2 at time at finishing Station 710
+Part Arrival:: Part Number: 0 at a time: 711
+Part Arrival:: Part Number: 1 at a time: 714
+End Assembly: Partial product and P2 into finish product at time at finishing Station 715
+End Assembly: P0 and P1 into partial product at time at main Station 720
+Start Assembly: P0 and P1 at time at main Station 720
+Product Arrival: Partially product arrives at finishing station at time 720
+Start Assembly: Partial product and P2 at time at finishing Station 720
+Part Arrival:: Part Number: 1 at a time: 721
+End Assembly: Partial product and P2 into finish product at time at finishing Station 725
+Part Arrival:: Part Number: 0 at a time: 726
+End Assembly: P0 and P1 into partial product at time at main Station 730
+Start Assembly: P0 and P1 at time at main Station 730
+Product Arrival: Partially product arrives at finishing station at time 730
+Start Assembly: Partial product and P2 at time at finishing Station 730
+Part Arrival:: Part Number: 2 at a time: 734
+End Assembly: Partial product and P2 into finish product at time at finishing Station 735
+Part Arrival:: Part Number: 1 at a time: 738
+End Assembly: P0 and P1 into partial product at time at main Station 740
+Start Assembly: P0 and P1 at time at main Station 740
+Product Arrival: Partially product arrives at finishing station at time 740
+Start Assembly: Partial product and P2 at time at finishing Station 740
+Part Arrival:: Part Number: 2 at a time: 742
+End Assembly: Partial product and P2 into finish product at time at finishing Station 745
+Part Arrival:: Part Number: 2 at a time: 748
+End Assembly: P0 and P1 into partial product at time at main Station 750
+Start Assembly: P0 and P1 at time at main Station 750
+Product Arrival: Partially product arrives at finishing station at time 750
+Start Assembly: Partial product and P2 at time at finishing Station 750
+End Assembly: Partial product and P2 into finish product at time at finishing Station 755
+Part Arrival:: Part Number: 0 at a time: 756
+End Assembly: P0 and P1 into partial product at time at main Station 760
+Start Assembly: P0 and P1 at time at main Station 760
+Product Arrival: Partially product arrives at finishing station at time 760
+Start Assembly: Partial product and P2 at time at finishing Station 760
+Part Arrival:: Part Number: 0 at a time: 762
+End Assembly: Partial product and P2 into finish product at time at finishing Station 765
+Part Arrival:: Part Number: 1 at a time: 770
+End Assembly: P0 and P1 into partial product at time at main Station 770
+Start Assembly: P0 and P1 at time at main Station 770
+Product Arrival: Partially product arrives at finishing station at time 770
+Start Assembly: Partial product and P2 at time at finishing Station 770
+Part Arrival:: Part Number: 0 at a time: 772
+End Assembly: Partial product and P2 into finish product at time at finishing Station 775
+Part Arrival:: Part Number: 0 at a time: 777
+Part Arrival:: Part Number: 0 at a time: 778
+End Assembly: P0 and P1 into partial product at time at main Station 780
+Start Assembly: P0 and P1 at time at main Station 780
+Product Arrival: Partially product arrives at finishing station at time 780
+Start Assembly: Partial product and P2 at time at finishing Station 780
+Part Arrival:: Part Number: 0 at a time: 783
+Part Arrival:: Part Number: 2 at a time: 784
+Part Arrival:: Part Number: 1 at a time: 785
+End Assembly: Partial product and P2 into finish product at time at finishing Station 785
+Part Arrival:: Part Number: 0 at a time: 788
+End Assembly: P0 and P1 into partial product at time at main Station 790
+Start Assembly: P0 and P1 at time at main Station 790
+Product Arrival: Partially product arrives at finishing station at time 790
+Start Assembly: Partial product and P2 at time at finishing Station 790
+Part Arrival:: Part Number: 2 at a time: 794
+End Assembly: Partial product and P2 into finish product at time at finishing Station 795
+End Assembly: P0 and P1 into partial product at time at main Station 800
+Start Assembly: P0 and P1 at time at main Station 800
+Product Arrival: Partially product arrives at finishing station at time 800
+Start Assembly: Partial product and P2 at time at finishing Station 800
+Part Arrival:: Part Number: 1 at a time: 802
+End Assembly: Partial product and P2 into finish product at time at finishing Station 805
+Part Arrival:: Part Number: 0 at a time: 810
+End Assembly: P0 and P1 into partial product at time at main Station 810
+Start Assembly: P0 and P1 at time at main Station 810
+Product Arrival: Partially product arrives at finishing station at time 810
+Start Assembly: Partial product and P2 at time at finishing Station 810
+Part Arrival:: Part Number: 0 at a time: 812
+End Assembly: Partial product and P2 into finish product at time at finishing Station 815
+Part Arrival:: Part Number: 2 at a time: 818
+End Assembly: P0 and P1 into partial product at time at main Station 820
+Product Arrival: Partially product arrives at finishing station at time 820
+Start Assembly: Partial product and P2 at time at finishing Station 820
+Part Arrival:: Part Number: 0 at a time: 822
+End Assembly: Partial product and P2 into finish product at time at finishing Station 825
+Part Arrival:: Part Number: 1 at a time: 829
+Start Assembly: P0 and P1 at time at main Station 829
+Part Arrival:: Part Number: 2 at a time: 836
+End Assembly: P0 and P1 into partial product at time at main Station 839
+Product Arrival: Partially product arrives at finishing station at time 839
+Start Assembly: Partial product and P2 at time at finishing Station 839
+Part Arrival:: Part Number: 2 at a time: 840
+End Assembly: Partial product and P2 into finish product at time at finishing Station 844
+Part Arrival:: Part Number: 2 at a time: 846
+Part Arrival:: Part Number: 1 at a time: 850
+Start Assembly: P0 and P1 at time at main Station 850
+Part Arrival:: Part Number: 2 at a time: 857
+Part Arrival:: Part Number: 0 at a time: 859
+End Assembly: P0 and P1 into partial product at time at main Station 860
+Product Arrival: Partially product arrives at finishing station at time 860
+Start Assembly: Partial product and P2 at time at finishing Station 860
+End Assembly: Partial product and P2 into finish product at time at finishing Station 865
+Part Arrival:: Part Number: 1 at a time: 866
+Start Assembly: P0 and P1 at time at main Station 866
+Part Arrival:: Part Number: 0 at a time: 871
+Part Arrival:: Part Number: 0 at a time: 875
+End Assembly: P0 and P1 into partial product at time at main Station 876
+Product Arrival: Partially product arrives at finishing station at time 876
+Start Assembly: Partial product and P2 at time at finishing Station 876
+Part Arrival:: Part Number: 2 at a time: 880
+End Assembly: Partial product and P2 into finish product at time at finishing Station 881
+Part Arrival:: Part Number: 0 at a time: 883
+Part Arrival:: Part Number: 2 at a time: 890
+Part Arrival:: Part Number: 0 at a time: 895
+Part Arrival:: Part Number: 2 at a time: 899
+Part Arrival:: Part Number: 1 at a time: 903
+Start Assembly: P0 and P1 at time at main Station 903
+Part Arrival:: Part Number: 1 at a time: 908
+End Assembly: P0 and P1 into partial product at time at main Station 913
+Start Assembly: P0 and P1 at time at main Station 913
+Product Arrival: Partially product arrives at finishing station at time 913
+Start Assembly: Partial product and P2 at time at finishing Station 913
+End Assembly: Partial product and P2 into finish product at time at finishing Station 918
+End Assembly: P0 and P1 into partial product at time at main Station 923
+Product Arrival: Partially product arrives at finishing station at time 923
+Start Assembly: Partial product and P2 at time at finishing Station 923
+End Assembly: Partial product and P2 into finish product at time at finishing Station 928
+Part Arrival:: Part Number: 1 at a time: 1000
+Start Assembly: P0 and P1 at time at main Station 1000
+End Assembly: P0 and P1 into partial product at time at main Station 1010
+Product Arrival: Partially product arrives at finishing station at time 1010
+Start Assembly: Partial product and P2 at time at finishing Station 1010
+End Assembly: Partial product and P2 into finish product at time at finishing Station 1015
+
+...All Assembly complete.  Final Summary:
+
+Left with P0:12
+Left with P1:0
+Left with P2:3
+Left with Partially product from main Station:0
+Number of Final Product: 70
+Average time to build a product is: 336
+End of processing.
